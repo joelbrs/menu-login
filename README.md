@@ -6,4 +6,6 @@ Fiquei muito orgulhoso quando terminei e fiquei muito gratificado com o resultad
 
 Enfim, sigo em busca de melhorar cada vez mais e agregar meu PortFólio cada vez mais!
 
+OBS: No arquivo do código disponibilizado há o arquivo.svg que utilizei na aparência do site.
+
 ## 🚀Let´s Code!🚀
